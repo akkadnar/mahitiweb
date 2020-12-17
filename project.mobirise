@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MahitiWeb E Learning Solutions",
-    "currentPage": "Blog.html",
+    "currentPage": "mahitiweb.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -57,8 +57,7 @@
     "versionPublish": "5.2.2",
     "publishChangesOnly": true,
     "mbrsiteDomain": "mahitiweb",
-    "cookiesAlert": false,
-    "canonical-url": false
+    "cookiesAlert": false
   },
   "pages": {
     "connect.html": {
